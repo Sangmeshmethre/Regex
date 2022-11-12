@@ -1,0 +1,15 @@
+C:\LFP-195 Batch\Regex\UserResterUC6\UserResterUC6\bin\Debug\net6.0\UserResterUC6.exe
+C:\LFP-195 Batch\Regex\UserResterUC6\UserResterUC6\bin\Debug\net6.0\UserResterUC6.deps.json
+C:\LFP-195 Batch\Regex\UserResterUC6\UserResterUC6\bin\Debug\net6.0\UserResterUC6.runtimeconfig.json
+C:\LFP-195 Batch\Regex\UserResterUC6\UserResterUC6\bin\Debug\net6.0\UserResterUC6.dll
+C:\LFP-195 Batch\Regex\UserResterUC6\UserResterUC6\bin\Debug\net6.0\UserResterUC6.pdb
+C:\LFP-195 Batch\Regex\UserResterUC6\UserResterUC6\obj\Debug\net6.0\UserResterUC6.csproj.AssemblyReference.cache
+C:\LFP-195 Batch\Regex\UserResterUC6\UserResterUC6\obj\Debug\net6.0\UserResterUC6.GeneratedMSBuildEditorConfig.editorconfig
+C:\LFP-195 Batch\Regex\UserResterUC6\UserResterUC6\obj\Debug\net6.0\UserResterUC6.AssemblyInfoInputs.cache
+C:\LFP-195 Batch\Regex\UserResterUC6\UserResterUC6\obj\Debug\net6.0\UserResterUC6.AssemblyInfo.cs
+C:\LFP-195 Batch\Regex\UserResterUC6\UserResterUC6\obj\Debug\net6.0\UserResterUC6.csproj.CoreCompileInputs.cache
+C:\LFP-195 Batch\Regex\UserResterUC6\UserResterUC6\obj\Debug\net6.0\UserResterUC6.dll
+C:\LFP-195 Batch\Regex\UserResterUC6\UserResterUC6\obj\Debug\net6.0\refint\UserResterUC6.dll
+C:\LFP-195 Batch\Regex\UserResterUC6\UserResterUC6\obj\Debug\net6.0\UserResterUC6.pdb
+C:\LFP-195 Batch\Regex\UserResterUC6\UserResterUC6\obj\Debug\net6.0\UserResterUC6.genruntimeconfig.cache
+C:\LFP-195 Batch\Regex\UserResterUC6\UserResterUC6\obj\Debug\net6.0\ref\UserResterUC6.dll
