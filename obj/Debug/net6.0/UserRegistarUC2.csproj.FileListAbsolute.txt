@@ -1,0 +1,15 @@
+C:\LFP-195 Batch\Regex\UserRegistarUC2\UserRegistarUC2\bin\Debug\net6.0\UserRegistarUC2.exe
+C:\LFP-195 Batch\Regex\UserRegistarUC2\UserRegistarUC2\bin\Debug\net6.0\UserRegistarUC2.deps.json
+C:\LFP-195 Batch\Regex\UserRegistarUC2\UserRegistarUC2\bin\Debug\net6.0\UserRegistarUC2.runtimeconfig.json
+C:\LFP-195 Batch\Regex\UserRegistarUC2\UserRegistarUC2\bin\Debug\net6.0\UserRegistarUC2.dll
+C:\LFP-195 Batch\Regex\UserRegistarUC2\UserRegistarUC2\bin\Debug\net6.0\UserRegistarUC2.pdb
+C:\LFP-195 Batch\Regex\UserRegistarUC2\UserRegistarUC2\obj\Debug\net6.0\UserRegistarUC2.csproj.AssemblyReference.cache
+C:\LFP-195 Batch\Regex\UserRegistarUC2\UserRegistarUC2\obj\Debug\net6.0\UserRegistarUC2.GeneratedMSBuildEditorConfig.editorconfig
+C:\LFP-195 Batch\Regex\UserRegistarUC2\UserRegistarUC2\obj\Debug\net6.0\UserRegistarUC2.AssemblyInfoInputs.cache
+C:\LFP-195 Batch\Regex\UserRegistarUC2\UserRegistarUC2\obj\Debug\net6.0\UserRegistarUC2.AssemblyInfo.cs
+C:\LFP-195 Batch\Regex\UserRegistarUC2\UserRegistarUC2\obj\Debug\net6.0\UserRegistarUC2.csproj.CoreCompileInputs.cache
+C:\LFP-195 Batch\Regex\UserRegistarUC2\UserRegistarUC2\obj\Debug\net6.0\UserRegistarUC2.dll
+C:\LFP-195 Batch\Regex\UserRegistarUC2\UserRegistarUC2\obj\Debug\net6.0\refint\UserRegistarUC2.dll
+C:\LFP-195 Batch\Regex\UserRegistarUC2\UserRegistarUC2\obj\Debug\net6.0\UserRegistarUC2.pdb
+C:\LFP-195 Batch\Regex\UserRegistarUC2\UserRegistarUC2\obj\Debug\net6.0\UserRegistarUC2.genruntimeconfig.cache
+C:\LFP-195 Batch\Regex\UserRegistarUC2\UserRegistarUC2\obj\Debug\net6.0\ref\UserRegistarUC2.dll
