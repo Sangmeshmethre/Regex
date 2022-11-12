@@ -1,0 +1,15 @@
+C:\LFP-195 Batch\Regex\UserRegisterUC3\UserRegisterUC3\bin\Debug\net6.0\UserRegisterUC3.exe
+C:\LFP-195 Batch\Regex\UserRegisterUC3\UserRegisterUC3\bin\Debug\net6.0\UserRegisterUC3.deps.json
+C:\LFP-195 Batch\Regex\UserRegisterUC3\UserRegisterUC3\bin\Debug\net6.0\UserRegisterUC3.runtimeconfig.json
+C:\LFP-195 Batch\Regex\UserRegisterUC3\UserRegisterUC3\bin\Debug\net6.0\UserRegisterUC3.dll
+C:\LFP-195 Batch\Regex\UserRegisterUC3\UserRegisterUC3\bin\Debug\net6.0\UserRegisterUC3.pdb
+C:\LFP-195 Batch\Regex\UserRegisterUC3\UserRegisterUC3\obj\Debug\net6.0\UserRegisterUC3.csproj.AssemblyReference.cache
+C:\LFP-195 Batch\Regex\UserRegisterUC3\UserRegisterUC3\obj\Debug\net6.0\UserRegisterUC3.GeneratedMSBuildEditorConfig.editorconfig
+C:\LFP-195 Batch\Regex\UserRegisterUC3\UserRegisterUC3\obj\Debug\net6.0\UserRegisterUC3.AssemblyInfoInputs.cache
+C:\LFP-195 Batch\Regex\UserRegisterUC3\UserRegisterUC3\obj\Debug\net6.0\UserRegisterUC3.AssemblyInfo.cs
+C:\LFP-195 Batch\Regex\UserRegisterUC3\UserRegisterUC3\obj\Debug\net6.0\UserRegisterUC3.csproj.CoreCompileInputs.cache
+C:\LFP-195 Batch\Regex\UserRegisterUC3\UserRegisterUC3\obj\Debug\net6.0\UserRegisterUC3.dll
+C:\LFP-195 Batch\Regex\UserRegisterUC3\UserRegisterUC3\obj\Debug\net6.0\refint\UserRegisterUC3.dll
+C:\LFP-195 Batch\Regex\UserRegisterUC3\UserRegisterUC3\obj\Debug\net6.0\UserRegisterUC3.pdb
+C:\LFP-195 Batch\Regex\UserRegisterUC3\UserRegisterUC3\obj\Debug\net6.0\UserRegisterUC3.genruntimeconfig.cache
+C:\LFP-195 Batch\Regex\UserRegisterUC3\UserRegisterUC3\obj\Debug\net6.0\ref\UserRegisterUC3.dll
