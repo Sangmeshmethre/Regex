@@ -1,0 +1,15 @@
+C:\LFP-195 Batch\Regex\REGEX_UserRegistration\REGEX_UserRegistration\bin\Debug\net6.0\REGEX_UserRegistration.exe
+C:\LFP-195 Batch\Regex\REGEX_UserRegistration\REGEX_UserRegistration\bin\Debug\net6.0\REGEX_UserRegistration.deps.json
+C:\LFP-195 Batch\Regex\REGEX_UserRegistration\REGEX_UserRegistration\bin\Debug\net6.0\REGEX_UserRegistration.runtimeconfig.json
+C:\LFP-195 Batch\Regex\REGEX_UserRegistration\REGEX_UserRegistration\bin\Debug\net6.0\REGEX_UserRegistration.dll
+C:\LFP-195 Batch\Regex\REGEX_UserRegistration\REGEX_UserRegistration\bin\Debug\net6.0\REGEX_UserRegistration.pdb
+C:\LFP-195 Batch\Regex\REGEX_UserRegistration\REGEX_UserRegistration\obj\Debug\net6.0\REGEX_UserRegistration.csproj.AssemblyReference.cache
+C:\LFP-195 Batch\Regex\REGEX_UserRegistration\REGEX_UserRegistration\obj\Debug\net6.0\REGEX_UserRegistration.GeneratedMSBuildEditorConfig.editorconfig
+C:\LFP-195 Batch\Regex\REGEX_UserRegistration\REGEX_UserRegistration\obj\Debug\net6.0\REGEX_UserRegistration.AssemblyInfoInputs.cache
+C:\LFP-195 Batch\Regex\REGEX_UserRegistration\REGEX_UserRegistration\obj\Debug\net6.0\REGEX_UserRegistration.AssemblyInfo.cs
+C:\LFP-195 Batch\Regex\REGEX_UserRegistration\REGEX_UserRegistration\obj\Debug\net6.0\REGEX_UserRegistration.csproj.CoreCompileInputs.cache
+C:\LFP-195 Batch\Regex\REGEX_UserRegistration\REGEX_UserRegistration\obj\Debug\net6.0\REGEX_UserRegistration.dll
+C:\LFP-195 Batch\Regex\REGEX_UserRegistration\REGEX_UserRegistration\obj\Debug\net6.0\refint\REGEX_UserRegistration.dll
+C:\LFP-195 Batch\Regex\REGEX_UserRegistration\REGEX_UserRegistration\obj\Debug\net6.0\REGEX_UserRegistration.pdb
+C:\LFP-195 Batch\Regex\REGEX_UserRegistration\REGEX_UserRegistration\obj\Debug\net6.0\REGEX_UserRegistration.genruntimeconfig.cache
+C:\LFP-195 Batch\Regex\REGEX_UserRegistration\REGEX_UserRegistration\obj\Debug\net6.0\ref\REGEX_UserRegistration.dll
